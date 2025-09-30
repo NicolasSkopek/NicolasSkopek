@@ -1,5 +1,5 @@
 # 👤 About Me:
-✋I have been working since May 2024 at ITSSI Consulting, focusing on SAP products.  <br>🛠️ PyGame and other libraries are my main tools for building my projects. <br>🎓 Computer Science undergraduate at Centro Universitário Braz Cubas, expected to graduate by the end of 2026.
+✋ I have been working since May 2024 at ITSSI Consulting, focusing on SAP products.  <br>🛠️ PyGame and other libraries are my main tools for building my projects. <br>🎓 Computer Science undergraduate at Centro Universitário Braz Cubas, expected to graduate by the end of 2026.
 
 
 ## 📄 Certifications
